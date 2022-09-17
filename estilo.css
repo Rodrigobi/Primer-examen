@@ -1,0 +1,13 @@
+.imagen {
+    width: 250px;
+    height: 250px;
+}
+html {
+    background-color:#E8E8E8 ;
+}
+.container {
+    background-color: white;
+    height: fit-content;
+    text-align: center;
+    width: 500px;
+}

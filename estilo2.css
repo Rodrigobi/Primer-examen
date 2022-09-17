@@ -1,0 +1,75 @@
+header {
+    display:flex;
+    padding:20px;
+    background-color: #12AAFF;
+    margin: 0px;
+}
+.headermenu{
+    flex:1;
+}
+.title {
+    padding-left: 20px;
+    padding-top: 20px;
+    flex:3;
+}
+aside {
+    padding-left: 20px;
+    background-color: #12AAFF;
+    box-sizing: 250px;
+}
+html {
+    background-color: #E8E8E8;
+}
+body {
+    margin: 0px;
+}
+.padre {
+    display: flex;
+    flex-direction: row;
+}
+.hijo1 {
+    flex: 1;
+    flex-direction: row;
+
+}
+.hijo2 {
+    flex: 5;
+    flex-direction: row;
+}
+section {
+    display: grid;
+    display: inline-grid;
+}
+.c1 {
+    background-color: white;
+    margin: 2px;
+    padding: 15px;
+}
+.c2 {
+    background-color: white;
+    margin: 2px;
+    padding: 15px;
+}
+.c3 {
+    background-color: white;
+    margin: 2px;
+    padding: 15px;
+}
+footer {
+    background-color: #E8E8E8;
+    display:flex;
+    padding:20px;
+    margin: 0px;
+}
+.tf {
+    padding-left: 20px;
+    padding-top: 20px;
+    flex:3;
+}
+.mf {
+    flex:1;
+    flex-direction: row;
+}
+h2 {
+    margin: 10px;
+}
